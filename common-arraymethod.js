@@ -45,3 +45,6 @@ console.log("Third drink order is: " + drinks[3]);
 
 console.log("Number of drinks available: " + drinks.length);
 console.log("Number of pastries available: " + pastry.length);
+
+
+
